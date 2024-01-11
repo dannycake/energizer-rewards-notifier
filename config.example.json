@@ -1,0 +1,16 @@
+{
+    "Username": "yay@example.com",
+    "Password": "",
+
+    "Items to watch": [
+        "Energizer® 12” Plush Bunny",
+        "Fun-Size Energizer® Plush Bunny",
+        "$5 transfer via Venmo",
+        "$5 transfer via PayPal",
+        "Energizer® Book Light",
+        "Energizer® Flashlight"
+    ],
+
+    "Webhook URL": "https://discord.com/api/webhooks/xxx",
+    "Seconds between checks": 60
+}
