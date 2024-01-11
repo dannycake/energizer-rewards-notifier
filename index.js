@@ -190,8 +190,6 @@ for (;;) {
   }
 
   const stockChanges = stock.filter((item) => {
-    item.stock = 9999;
-
     const previous = previousStocks.find((i) => i.name === item.name);
     return previous.stock < item.stock && previous.stock === 0;
   });
